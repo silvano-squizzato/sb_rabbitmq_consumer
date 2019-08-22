@@ -38,4 +38,3 @@ See [sb_rabbitmq_producer](https://github.com/silvano-squizzato/sb_rabbitmq_prod
 5. Check the queue status on RabbitMQ.
 
 http://localhost:15672/#/queues/%2F/company.queue
-
