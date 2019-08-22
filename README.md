@@ -18,7 +18,7 @@ sudo docker run -d --network="host" rabbitmq:3-management
 ## Demo
 Consumer Java application retrieving messages (employee details) from a queue (_company.queue_).
 
-1. Download the code for [sb_rabbitmq_consumer](https://github.com/silvano-squizzato/sb_rabbitmq_consumer)
+1. Download the code for [sb_rabbitmq_consumer](https://github.com/silvano-squizzato/sb_rabbitmq_consumer).
 
 2. Build the project.
 ```
