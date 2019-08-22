@@ -27,7 +27,7 @@ mvn clean install
 
 3. Run the cosumer app which retrieves all the available messages available on the queue.
 ```
-java -jar target/rabbitmq-producer-*.jar
+java -jar target/rabbitmq-consumer-*.jar
 
 ```
 
