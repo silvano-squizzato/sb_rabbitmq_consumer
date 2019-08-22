@@ -6,7 +6,7 @@ This code provides a example on how to retrieve messages from a RabbitMQ queue.
 
 ## Prerequisites
 A [RabbitMQ Docker](https://hub.docker.com/_/rabbitmq) image running locally.
-See also [Docker network settings](https://docs.docker.com/engine/reference/run/#network-settings)
+See also [Docker network settings](https://docs.docker.com/engine/reference/run/#network-settings).
 
 The following command will start a RabbitMQ container listening on the default port of 5672.
 
